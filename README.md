@@ -42,7 +42,8 @@
 <!-- Skills: Programming Languages -->
   <div style="flex-basis: 48%;">
     <h3>Linguagens de Programação</h3>
-    <img align="center" alt="Js" height="30" width="40" src=<img src="https://icongr.am/devicon/java-original.svg?size=148&color=currentColor">
+    <img align="center" alt="Js" height="30" width="40" src="https://icongr.am/devicon/java-original.svg?size=148&color=currentColor">
+
 
         
   </div>
