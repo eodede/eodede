@@ -22,8 +22,10 @@
 <!-- Links -->
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@D10Z_Oficial
 )
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]((https://www.instagram.com/andredxzz/))
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/andredxzz/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andr%C3%A9-marcello-b66377301/)
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31nxcvh7bjkkmh5xbitf4n7mhp54&cover_image=true&theme=default&show_offline=false&background_color=000000&interchange=false)](https://github.com/kittinan/spotify-github-profile)
 
 <!-- Portfolio -->
 ## Portfolio:
