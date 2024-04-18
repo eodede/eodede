@@ -42,9 +42,9 @@
 <!-- Skills: Programming Languages -->
   <div style="flex-basis: 48%;">
     <h3>Linguagens de Programação</h3>
+    <img align="center" alt="Js" height="30" width="40" src=<img src="https://icongr.am/devicon/java-original.svg?size=148&color=currentColor">
+
         
-    img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg"
-            
   </div>
   
   <!-- Skills: Tools & Frameworks -->
