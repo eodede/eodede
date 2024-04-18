@@ -30,7 +30,7 @@
 <!-- Portfolio -->
 ## Portfolio:
 - [Java - Lista revisional dos conceitos basicos de Logica](eodede/-psc-lista-revisao-III-2024)
-- [Google Data Studio - COVID-19 Interactive Dashboard](https://github.com/VariableBee/COVID_19_DASHBOARD)
+- [Java - Um exemplo da função Fork](eodede/example-java-exercise-202401)
 
 <!-- GIF -->
 ![giphy](https://github.com/eodede/eodede/assets/160755361/1e5e5f07-5581-4888-bf9f-9bc8d92c1725)
