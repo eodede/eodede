@@ -29,10 +29,8 @@
 
 <!-- Portfolio -->
 ## Portfolio:
-- [Python - Exploratory data analysis](https://github.com/VariableBee/EDA_Loggi)
+- [Java - Lista revisional dos conceitos basicos de Logica](eodede/-psc-lista-revisao-III-2024)
 - [Google Data Studio - COVID-19 Interactive Dashboard](https://github.com/VariableBee/COVID_19_DASHBOARD)
-- [SQL - Querying and analyzing data with AWS Athena](https://github.com/VariableBee/AWS_Athena_Queries)
-- [C - Registration and query system](https://github.com/VariableBee/Cartorio)
 
 <!-- GIF -->
 ![giphy](https://github.com/eodede/eodede/assets/160755361/1e5e5f07-5581-4888-bf9f-9bc8d92c1725)
